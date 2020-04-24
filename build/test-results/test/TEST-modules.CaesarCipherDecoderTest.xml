@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="modules.CaesarCipherDecoderTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-04-24T10:37:44" hostname="hp-probook-450" time="0.005">
+  <properties/>
+  <testcase name="decodeUserText_decodesStringWithASpaceInBetweenTwoStrings_String" classname="modules.CaesarCipherDecoderTest" time="0.002"/>
+  <testcase name="decodeUserText_decodesStringWithMultipleWordsWithSpacesAndSpecialCharacters_String" classname="modules.CaesarCipherDecoderTest" time="0.0"/>
+  <testcase name="newCaesarCipherObject_instantiatesCorrectly" classname="modules.CaesarCipherDecoderTest" time="0.0"/>
+  <testcase name="decodeUserText_decodesOneLetterString_String" classname="modules.CaesarCipherDecoderTest" time="0.0"/>
+  <testcase name="decodesUserText_decodesMultipleLetterString_String" classname="modules.CaesarCipherDecoderTest" time="0.0"/>
+  <testcase name="decodesUserText_decodesTwoLetterString_String" classname="modules.CaesarCipherDecoderTest" time="0.001"/>
+  <testcase name="decodesUserText_decodesStringWithDifferentAlphabeticalCaseLetters_String" classname="modules.CaesarCipherDecoderTest" time="0.0"/>
+  <testcase name="newCaesarCipherDecoder_getUserText_String" classname="modules.CaesarCipherDecoderTest" time="0.0"/>
+  <testcase name="newCaesarCipherDecoder_getUserShiftKey_int" classname="modules.CaesarCipherDecoderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
